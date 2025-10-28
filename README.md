@@ -19,7 +19,9 @@
 Developed using ASP.NET MVC, this platform enables users to connect, share posts, and interact in real time. Integrated secure authentication and responsive design for seamless user experience.
 
 #### **CodeBook – Python-Based Social Coding Platform**
-A social media application for coders, built entirely with Python (no external libraries). Implemented features like posting, following, and comment interaction using core Python.
+A social media application for coders, built entirely with Python (no external libraries). Implemented features like posting, following, and comment interaction using core Python.  
+🔗 [View Project on GitHub](https://github.com/shreyashsalwe23/CodeBook.git)
+
 
 #### **Power BI Analytics Dashboard**
 Created interactive dashboards using Power BI for visualizing key business insights and metrics, improving data-driven decision-making.
