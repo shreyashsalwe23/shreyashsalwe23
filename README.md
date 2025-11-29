@@ -1,39 +1,56 @@
 <h1 align="center">Hi 👋, I'm Shreyash Salwe</h1>
-<h3 align="center">Data Scientist • Data Analyst • AI/ML Engineer passionate about turning data into impactful insights</h3>
+<h3 align="center">Data Scientist • Data Analyst • AI/ML Engineer</h3>
+<p align="center">Passionate about transforming raw data into meaningful insights using Machine Learning and AI</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shreyashsalwe23&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashsalwe23"/>
 </p>
 
-- 🌱 Currently working on **Machine Learning • LLMs • Data Visualization • AI Projects**
-- 💻 Skilled in **Python • SQL • Power BI • Machine Learning • AI/ML**
-- 📊 Exploring **Large Language Models (LLMs)** and real-world data-driven solutions
-- 💬 Ask me about **Data Science, Analytics, ML Models, and Data-Driven Decision Making**
-- 📫 Reach me at: **shreyashsalwe23@gmail.com**
+---
+
+### 🌟 About Me
+
+- 🌱 Currently exploring **Machine Learning, LLMs, Data Visualization, and AI Projects**  
+- 💻 Skilled in **Python • SQL • Power BI • Machine Learning • AI/ML**  
+- 📊 Learning and building real-world solutions in **Large Language Models (LLMs)**  
+- 💬 Ask me about **Data Science, Analytics, ML Models, LLMs, and Data-Driven Decision Making**  
+- 📫 Contact me: **shreyashsalwe23@gmail.com**
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### **Product Sales Analysis**
-This project focuses on analyzing sales and customer data to derive actionable insights for improving customer experience and optimizing sales strategies. Through comprehensive data analysis and visualization, we identify key customer segments and high-performing product categories to drive business growth.
-🔗 [View Project on GitHub](https://github.com/shreyashsalwe23/Product_Sales_Analysis.git)
+### 📌 **Product Sales Analysis**
+Performed end-to-end analysis of customer and sales data to uncover insights on buying patterns, top-performing products, and business improvement areas.  
+🔗 **GitHub:** [Product Sales Analysis](https://github.com/shreyashsalwe23/Product_Sales_Analysis.git)
 
+---
 
-#### **CodeBook – Pure Python based analysis without using any libraries**
-CodeBook is an end-to-end recommendation system built using pure Python (no external libraries). It processes raw user-data, performs cleaning, analyses relationships, and generates two distinct recommendation features:
-People You May Know and
-Pages You Might Like.
-🔗 [View Project on GitHub](https://github.com/shreyashsalwe23/CodeBook.git)
+### 📌 **CodeBook – Pure Python Data Analysis (No Libraries Used)**
+An end-to-end recommendation system built completely with **core Python**.  
+Includes:  
+- Data cleaning & preprocessing  
+- Relationship analysis  
+- “People You May Know” recommendation  
+- “Pages You Might Like” recommendation  
+🔗 **GitHub:** [CodeBook](https://github.com/shreyashsalwe23/CodeBook.git)
 
+---
 
-#### **Credit Card Financial Dashboard**
-Created interactive dashboards using Power BI for visualizing key business insights and metrics, improving data-driven decision-making.
-🔗 [View Project on GitHub](https://github.com/shreyashsalwe23/Credit_card_Financial_Dashboard.git)
+### 📌 **Credit Card Financial Dashboard – Power BI**
+Developed interactive visual dashboards to track customer transactions, KPIs, and financial trends for better data-driven decisions.  
+🔗 **GitHub:** [Credit Card Dashboard](https://github.com/shreyashsalwe23/Credit_card_Financial_Dashboard.git)
 
-#### **Music Store Data Analysis**
-Analyzed a relational database of a music store using complex SQL queries to uncover business insights on sales, customer behavior, and genre popularity. Identified top-performing artists, most profitable countries, and peak purchasing trends by joining multiple tables like customers, invoices, tracks, and genres. Optimized queries for performance and used aggregate functions, subqueries, and window functions to deliver actionable insights.
-🔗 [View Project on GitHub](https://github.com/shreyashsalwe23/Music_Store_Data_Analysis.git)
+---
+
+### 📌 **Music Store Data Analysis (SQL)**
+Analyzed a complete music store database using advanced SQL queries (joins, subqueries, aggregates, window functions).  
+Derived actionable insights on:  
+- Customer behavior  
+- Genre popularity  
+- Artist performance  
+- Revenue patterns  
+🔗 **GitHub:** [Music Store Analysis](https://github.com/shreyashsalwe23/Music_Store_Data_Analysis.git)
 
 ---
 
@@ -45,7 +62,7 @@ Analyzed a relational database of a music store using complex SQL queries to unc
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -53,14 +70,15 @@ Analyzed a relational database of a music store using complex SQL queries to unc
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashsalwe23&show_icons=true&locale=en&layout=compact" alt="top languages"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashsalwe23&show_icons=true&locale=en" alt="GitHub stats"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashsalwe23&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashsalwe23&show_icons=true&locale=en" alt="GitHub stats" /></p>
 
 ---
 
-### 🔗 Let's Connect
+## 🔗 Let's Connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shreyash-salwe/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/></a>
