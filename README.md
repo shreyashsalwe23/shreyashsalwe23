@@ -20,7 +20,9 @@ This project focuses on analyzing sales and customer data to derive actionable i
 
 
 #### **CodeBook – Python-Based Social Coding Platform**
-A social media application for coders, built entirely with Python (no external libraries). Implemented features like posting, following, and comment interaction using core Python.  
+CodeBook is an end-to-end recommendation system built using pure Python (no external libraries). It processes raw user-data, performs cleaning, analyses relationships, and generates two distinct recommendation features:
+People You May Know
+Pages You Might Like
 🔗 [View Project on GitHub](https://github.com/shreyashsalwe23/CodeBook.git)
 
 
