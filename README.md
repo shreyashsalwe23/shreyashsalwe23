@@ -15,8 +15,9 @@
 
 ### 🚀 Featured Projects
 
-#### **BlueSky - Social Media Platform**
-Developed using ASP.NET MVC, this platform enables users to connect, share posts, and interact in real time. Integrated secure authentication and responsive design for seamless user experience.
+#### **Product Sales Analysis**
+This project focuses on analyzing sales and customer data to derive actionable insights for improving customer experience and optimizing sales strategies. Through comprehensive data analysis and visualization, we identify key customer segments and high-performing product categories to drive business growth.
+
 
 #### **CodeBook – Python-Based Social Coding Platform**
 A social media application for coders, built entirely with Python (no external libraries). Implemented features like posting, following, and comment interaction using core Python.  
