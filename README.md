@@ -17,12 +17,13 @@
 
 #### **Product Sales Analysis**
 This project focuses on analyzing sales and customer data to derive actionable insights for improving customer experience and optimizing sales strategies. Through comprehensive data analysis and visualization, we identify key customer segments and high-performing product categories to drive business growth.
+🔗 [View Project on GitHub](https://github.com/shreyashsalwe23/Product_Sales_Analysis.git)
 
 
 #### **CodeBook – Python-Based Social Coding Platform**
 CodeBook is an end-to-end recommendation system built using pure Python (no external libraries). It processes raw user-data, performs cleaning, analyses relationships, and generates two distinct recommendation features:
-People You May Know
-Pages You Might Like
+People You May Know and
+Pages You Might Like.
 🔗 [View Project on GitHub](https://github.com/shreyashsalwe23/CodeBook.git)
 
 
