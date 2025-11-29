@@ -20,18 +20,20 @@ This project focuses on analyzing sales and customer data to derive actionable i
 🔗 [View Project on GitHub](https://github.com/shreyashsalwe23/Product_Sales_Analysis.git)
 
 
-#### **CodeBook – Python-Based Social Coding Platform**
+#### **CodeBook – Pure Python based analysis without using any libraries**
 CodeBook is an end-to-end recommendation system built using pure Python (no external libraries). It processes raw user-data, performs cleaning, analyses relationships, and generates two distinct recommendation features:
 People You May Know and
 Pages You Might Like.
 🔗 [View Project on GitHub](https://github.com/shreyashsalwe23/CodeBook.git)
 
 
-#### **Power BI Analytics Dashboard**
+#### **Credit Card Financial Dashboard**
 Created interactive dashboards using Power BI for visualizing key business insights and metrics, improving data-driven decision-making.
+🔗 [View Project on GitHub](https://github.com/shreyashsalwe23/Credit_card_Financial_Dashboard.git)
 
-#### **Password Generator in C++**
-Developed a random password generator using string manipulation and randomization techniques for secure password creation.
+#### **Music Store Data Analysis**
+Analyzed a relational database of a music store using complex SQL queries to uncover business insights on sales, customer behavior, and genre popularity. Identified top-performing artists, most profitable countries, and peak purchasing trends by joining multiple tables like customers, invoices, tracks, and genres. Optimized queries for performance and used aggregate functions, subqueries, and window functions to deliver actionable insights.
+🔗 [View Project on GitHub](https://github.com/shreyashsalwe23/Music_Store_Data_Analysis.git)
 
 ---
 
